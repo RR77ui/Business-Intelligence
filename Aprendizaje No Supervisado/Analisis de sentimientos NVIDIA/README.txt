@@ -1,0 +1,1 @@
+Para este proyecto se llevo acabo un proceso de recolección de datos por medio de una api para poder extraer noticias de diferentes fuentes financieras con el fin de hacer un análisis de sentimiento del mercado frente a la compañía NVDA y determinar que su relación con el precio y que tan buenos fueron los métodos para analizar los textos, fortalezas y debilidades 
